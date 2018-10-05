@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.0.90:8082/nexus/content/repositories/jenkins/</url>
+            <url>http://192.168.0.90:8082/nexus/content/repositories/1/jenkins/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.0.90:8082/nexus/content/repositories/jenkins/</url>
+            <url>http://192.168.0.90:8082/nexus/content/repositories/1/jenkins/</url>
         </snapshotRepository>
     </distributionManagement>
     <build>
